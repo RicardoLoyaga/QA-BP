@@ -12,4 +12,4 @@ La segunda función se encarga de invertir el arreglo ordenado de forma ascenden
 
 Las dos funciones, son invocadas desde la función principal acorde a la variable tipo ordenamiento.
 
-En la parte final del código, se encuntran las variables utilizadas para las pruebas unitarias.
+En la parte final del código, se encuentran las variables utilizadas para las pruebas unitarias.
